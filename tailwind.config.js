@@ -9,9 +9,9 @@ module.exports = {
         'krub': ["'Krub'", 'bold'],
       },
       backgroundImage: {
-        'desk' : 'url("/static/Desk-Background.jpg")',
-        'mob' : 'url("/static/Desk-Background-Small.jpg")',
-        'vert' : 'url("/static/Vert-Background.jpg")'
+        'desk' : 'url("Desk-Background.jpg")',
+        'mob' : 'url("Desk-Background-Small.jpg")',
+        'vert' : 'url("Vert-Background.jpg")'
       },
       },
     },
