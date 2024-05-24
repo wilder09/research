@@ -1,1 +1,0 @@
-﻿# This is a website for Research Made accessible using HTML Tailwind CSS and Javascript
