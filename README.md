@@ -1,2 +1,2 @@
 ﻿# researchma
-![Website Logo](R)
+![Website Logo](RMA-Logo.webp)
